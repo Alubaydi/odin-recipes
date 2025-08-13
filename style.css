@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+    max-width: 800px;
+    border: 2px black solid;
+    background-color: black;
+    font-family: "Arial", "Times", "serif";
+}
+
+.title{
+    font-size: 50px;
+    text-align:center;
+    color: brown;
+}
+
+.unorder-links{
+    list-style-type: none;
+    font-size: 28px;
+    color:chocolate;
+}
+
+.unorder-links a {
+    color: coral;
+}
